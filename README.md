@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love pizza
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://wallpapers.com/images/hd/black-cat-dark-mode-vggaemjudequjfxk.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://thumbs.dreamstime.com/b/hacker-cat-wearing-hoodie-hacking-laptop-created-generative-ai-hacker-cat-wearing-hoodie-hacking-laptop-267698623.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://mj-gallery.com/067531e8-1f06-499b-b172-2be7dcfca9c8/grid_0.png">
 </picture>

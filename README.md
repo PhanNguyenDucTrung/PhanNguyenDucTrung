@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me
-Call me Trung
+Call me Trung \
 I love tech and i want to discover different fields in tech jobs 🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖
 
 - 🔭 I’m currently working on Movie Project
@@ -12,6 +12,10 @@ I love tech and i want to discover different fields in tech jobs 🤖🤖🤖�
 - 📫 How to reach me: Facebook
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love pizza
+- 
+## Skills
+Checkout my [leetcode](https://github.com/PhanNguyenDucTrung/PhanNguyenDucTrung/edit/main/README.md)
+## Projects
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://wallpapers.com/images/hd/black-cat-dark-mode-vggaemjudequjfxk.jpg">
@@ -37,6 +41,8 @@ I love tech and i want to discover different fields in tech jobs 🤖🤖🤖�
 My favorite tips
 > A tip for writing more: expand your definition of completing a project (any project, no matter how small) to include writing a blog post (or README or similar) that explains that project
 ## Contact info
-My LinkedIn
-My Email
+My LinkedIn \
+My Email  \
+Find me on Twitter  \
+hello
 <!-- Add more contact info-->

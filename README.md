@@ -42,7 +42,7 @@ My favorite tips
 > A tip for writing more: expand your definition of completing a project (any project, no matter how small) to include writing a blog post (or README or similar) that explains that project
 ## Contact info
 My LinkedIn \
-My Email  \
+My Email  phan.nguyenductrung@gmail.com \
 Find me on Twitter  \
 hello
 <!-- Add more contact info-->

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me
-Call me Trung \
+Call me Duc Trung \
 I love tech and i want to discover different fields in tech jobs 🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖
 
 - 🔭 I’m currently working on Movie Project

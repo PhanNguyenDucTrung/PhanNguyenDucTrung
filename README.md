@@ -22,7 +22,7 @@ Checkout my [leetcode](https://github.com/PhanNguyenDucTrung/PhanNguyenDucTrung/
  <source media="(prefers-color-scheme: light)" srcset="https://thumbs.dreamstime.com/b/hacker-cat-wearing-hoodie-hacking-laptop-created-generative-ai-hacker-cat-wearing-hoodie-hacking-laptop-267698623.jpg">
  <img alt="cat typing keyboard" src="https://mj-gallery.com/067531e8-1f06-499b-b172-2be7dcfca9c8/grid_0.png">
 </picture>
-<a href="https://www.google.com/search?q=short+men+styles&tbm=isch&ved=2ahUKEwjhrdbPkv2DAxXRuFYBHTXlABEQ2-cCegQIABAA&oq=short+men+styl&gs_lcp=CgNpbWcQARgAMgcIABCABBATMgcIABCABBATMgcIABCABBATMgcIABCABBATMgYIABAeEBMyBggAEB4QEzIICAAQBRAeEBMyCAgAEAUQHhATMggIABAFEB4QEzIICAAQCBAeEBM6CAgAEIAEELEDOgUIABCABDoKCAAQgAQQigUQQzoNCAAQgAQQigUQQxCxAzoLCAAQgAQQsQMQgwE6DggAEIAEEIoFELEDEIMBOgQIABAeUK8IWPk6YIhBaAJwAHgAgAGCAogByg6SAQYxNC4zLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABAMABAQ&sclient=img&ei=Hr60ZeGmAdHx2roPtcqDiAE&bih=730&biw=1536#imgrc=qTlEMCnbBRrAyM" target="_blank">Link </a>
+<a href="https://www.google.com/search?q=short+men+styles&tbm=isch&ved=2ahUKEwjhrdbPkv2DAxXRuFYBHTXlABEQ2-cCegQIABAA&oq=short+men+styl&gs_lcp=CgNpbWcQARgAMgcIABCABBATMgcIABCABBATMgcIABCABBATMgcIABCABBATMgYIABAeEBMyBggAEB4QEzIICAAQBRAeEBMyCAgAEAUQHhATMggIABAFEB4QEzIICAAQCBAeEBM6CAgAEIAEELEDOgUIABCABDoKCAAQgAQQigUQQzoNCAAQgAQQigUQQxCxAzoLCAAQgAQQsQMQgwE6DggAEIAEEIoFELEDEIMBOgQIABAeUK8IWPk6YIhBaAJwAHgAgAGCAogByg6SAQYxNC4zLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABAMABAQ&sclient=img&ei=Hr60ZeGmAdHx2roPtcqDiAE&bih=730&biw=1536#imgrc=qTlEMCnbBRrAyM" target="blank">Link </a>
 
 ## Checkout my technical skills
 <details>

@@ -4,15 +4,15 @@
 Call me Phan Nguyen Duc Trung \
 I love tech and i want to discover different fields in tech jobs 🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖
 
-- 🔭 I’m currently working on Movie Project
+- 🔭 I’m currently working on Movie Site Project
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Enterprise Javascript Application
 - 🤔 I’m looking for help with Technical Interview
-- 💬 Ask me about anything
+- 💬 Ask me about anything Web Technology, Web Products.
 - 📫 How to reach me: Facebook
-- 😄 Pronouns: ...
+- 😄 Pronouns: He...
 - ⚡ Fun fact: I love pizza
-- 
+  
 ## Skills
 Checkout my [leetcode](https://github.com/PhanNguyenDucTrung/PhanNguyenDucTrung/edit/main/README.md)
 ## Projects

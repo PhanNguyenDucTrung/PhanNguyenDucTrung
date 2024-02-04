@@ -45,6 +45,6 @@ My favorite tips
 ## Contact info
 My LinkedIn \
 My Email  phan.nguyenductrung@gmail.com \
-Find me on Twitter  \
+Find me on Twitter  
 ------
 <!-- Add more contact info-->

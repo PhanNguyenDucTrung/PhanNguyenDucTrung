@@ -2,7 +2,7 @@
 
 ## About me
 Call me Phan Nguyen Duc Trung \
-I love tech and i want to discover different fields in tech jobs 🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖
+I love tech and I want to discover different fields in the tech industry 🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖
 
 - 🔭 I’m currently working on Movie Site Project
 - 🌱 I’m currently learning Web Development
@@ -31,8 +31,9 @@ Checkout my [leetcode](https://github.com/PhanNguyenDucTrung/PhanNguyenDucTrung/
 | Rank | Languages |
 |-----:|-----------|
 |     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
+|     2| ReactJs   |
+|     3| NodeJs    |
+|     4| MongoDB    |
 
 </details>
 ----
@@ -45,5 +46,5 @@ My favorite tips
 My LinkedIn \
 My Email  phan.nguyenductrung@gmail.com \
 Find me on Twitter  \
-hello
+------
 <!-- Add more contact info-->

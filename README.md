@@ -14,7 +14,7 @@ I love tech and I want to discover different fields in the tech industry 🤖�
 - ⚡ Fun fact: I love pizza
   
 ## Skills
-Checkout my [leetcode](https://github.com/PhanNguyenDucTrung/PhanNguyenDucTrung/edit/main/README.md)
+Checkout my [Leetcode](https://github.com/PhanNguyenDucTrung/PhanNguyenDucTrung/edit/main/README.md)
 ## Projects
 
 <picture>

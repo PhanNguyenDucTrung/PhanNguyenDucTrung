@@ -43,8 +43,9 @@ Checkout my [Leetcode](https://github.com/PhanNguyenDucTrung/PhanNguyenDucTrung/
 My favorite tips
 > A tip for writing more: expand your definition of completing a project (any project, no matter how small) to include writing a blog post (or README or similar) that explains that project
 ## Contact info
-My LinkedIn \
-My Email  phan.nguyenductrung@gmail.com \
-Find me on Twitter  
+ My LinkedIn \ 
+ My Email  phan.nguyenductrung@gmail.com \
+ Find me on Twitter  
+
 ------
 <!-- Add more contact info-->
